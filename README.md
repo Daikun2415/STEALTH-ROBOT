@@ -1,5 +1,6 @@
 # STEALTH-ROBOT
 STEALTH ROBOT のUnityプロジェクトファイルになります。
+Unityバージョン：6000.3.21f1
 
 操作方法
 W:ジャンプ、A:左移動、S:しゃがみ、D：右移動
