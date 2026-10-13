@@ -1,0 +1,63 @@
+root = true
+
+[*.cs]
+
+# タブが含まれている
+dotnet_diagnostic.SA1027.severity = none
+
+# usingはnamespaceの外部に配置される
+dotnet_diagnostic.SA1200.severity = none
+
+# アクセス修飾子順に並べる
+dotnet_diagnostic.SA1202.severity = none
+
+# フィールド名を _ で始めない
+dotnet_diagnostic.SA1309.severity = none
+
+# フィールド名に _ を含めない
+dotnet_diagnostic.SA1310.severity = none
+
+# 非privateフィールドに _ を使わない
+dotnet_diagnostic.SA1311.severity = none
+
+# 1ファイルに複数の型を置かない
+dotnet_diagnostic.SA1402.severity = none
+
+# 初期化子の最後にカンマ
+dotnet_diagnostic.SA1413.severity = none
+
+# 初期化子の最後にカンマ
+dotnet_diagnostic.SA1413.severity = none
+
+# 1行ブロック
+dotnet_diagnostic.SA1502.severity = none
+
+# ドキュメントコメントが無い
+dotnet_diagnostic.SA1600.severity = warning
+
+# Propertyのsummaryとaccessorの内容を一致させる
+dotnet_diagnostic.SA1623.severity = none
+
+# ドキュメントコメントのテキストが大文字で始まっていない
+dotnet_diagnostic.SA1628.severity = none
+
+# コメントをピリオドで終える
+dotnet_diagnostic.SA1629.severity = none
+
+# ファイル先頭のヘッダーコメントを要求しない
+dotnet_diagnostic.SA1633.severity = none
+
+# ファイルヘッダーの著作権テキストが、設定ファイルで定義された期待される著作権テキストと一致していない
+dotnet_diagnostic.SA1636.severity = none
+
+# ドキュメントコメントの <summary> タグの書き出しが、決められた標準テキスト形式になっていない
+dotnet_diagnostic.SA1642.severity = none
+
+# デストラクタのドキュメント（<summary>）は、標準の定型文で始めなければならない
+dotnet_diagnostic.SA1643.severity = none
+
+# ソースコードファイル名がファイル内で最初に定義されている型の名前と一致しなければならない
+dotnet_diagnostic.SA1649.severity = none
+
+# ドキュメントコメントのスペルチェック
+dotnet_diagnostic.SA1650.severity = none

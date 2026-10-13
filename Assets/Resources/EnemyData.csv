@@ -1,0 +1,4 @@
+EnemyId,EnemyName,MoveSpeed,ChaseSpeed,SightDistance,SightAngle,ShotInterval
+1,通常兵,3.0,3.0,6.0,30.0,0.5
+2,高速兵,4.0,4.2,5.5,20.0,0.5
+3,偵察兵,2.0,2.0,6.5,60.0,0.5
