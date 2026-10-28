@@ -2,6 +2,9 @@
 STEALTH ROBOT のUnityプロジェクトファイルになります。
 Unityバージョン：6000.3.21f1
 
+ゲームプレイはこちらから
+https://unityroom.com/games/stealth_robot
+
 操作方法
 W:ジャンプ、A:左移動、S:しゃがみ、D：右移動
 スペース：透明化、P:ポーズ
